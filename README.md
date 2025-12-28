@@ -1,5 +1,9 @@
 ### Hi there 👋
-⚡ Fun fact: I am a long distance cyclist (French randonneur). 
+⚡ Fun fact: I am a long distance cyclist (French randonneur).
+
+## 🚴 Cycling Achievements
+
+![DCK6](https://img.shields.io/badge/DCK6-Completed-success?style=for-the-badge&logo=bicycle) 
 <!--
 **damiencartron/damiencartron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
