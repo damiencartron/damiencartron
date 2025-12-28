@@ -3,7 +3,7 @@
 
 ## 🚴 Cycling Achievements
 
-![DCK6](https://img.shields.io/badge/DCK6-Completed-success?style=for-the-badge&logo=bicycle) 
+![DCK6](https://img.shields.io/badge/DCK6-Completed-success?style=for-the-badge&logo=bicycle)
 <!--
 **damiencartron/damiencartron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
